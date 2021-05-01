@@ -1,0 +1,71 @@
+body{
+    background-color: lightgrey !important;
+    text-align: center ;
+    background-size: cover !important;
+}
+.form-div{
+    background-color: white;
+    margin-top: 200px;
+    margin-right: 25em;
+    margin-left: 6em;
+    margin-bottom: 3em;
+   
+}
+
+.header{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirB1ig6nzOarRDVfrMzpGcq0sI7Cll5JG3g&usqp=CAU");
+    margin-left: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 250px;
+    padding-right: 100px;
+    min-height: 15%;
+    font-size: 50px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form{
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-right: 200px;
+    width: 700px;
+    position: relative;
+}
+
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+input{
+    height: 25px;
+    padding: 5px 18px 5px 5px;
+    font-size: 15px; 
+    width: 105%;
+    height: 15%;
+ }
+
+ input .form-ctrl2 {
+     margin-right: 200px;
+ }
+ #subject{
+    height: 25px;
+    padding: 3px 18px 3px 3px;
+    font-size: 15px; 
+    width: 108%;
+    height: 20%;
+ }
+  button {
+    width: 75px;
+    height: 45px;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
